@@ -1,6 +1,6 @@
 # Bull-Dozer-ML-Model
 
-To view the Jupyter notebook of this project -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Hrushi11/Bull-Dozer-ML-Model/HEAD)
+To view the Jupyter notebook of this project -> [![Binder](https://mybinder.org/v2/gh/Hrushi11/Bull-Dozer-Machine-Learning-Model/HEAD)
 
 Predicting the price of the bulldozers on previous data.
 
